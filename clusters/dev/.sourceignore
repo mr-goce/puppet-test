@@ -6,5 +6,6 @@
 
 # Include manifest directories
 !/apps/
-!/clusters/
+!/clusters/dev/
 !/infrastructure/
+!/flux-system/
