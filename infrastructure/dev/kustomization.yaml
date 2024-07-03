@@ -2,7 +2,7 @@ resources:
   - "namespace-test.yaml"
   - "namespace-nginx.yaml"
   - "repository.yaml"
-  - "chart.yaml"
+  # - "chart.yaml"
   - "namespace-new.yaml"
   - "puppet-repo.yaml"
   - "release.yaml"
