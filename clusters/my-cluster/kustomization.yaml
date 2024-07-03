@@ -1,6 +1,0 @@
-resources:
-- namespace.yaml
-- repository.yaml
-- puppet-repo.yaml
-- chart.yaml
-- namespace-test.yml
