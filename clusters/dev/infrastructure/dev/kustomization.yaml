@@ -2,3 +2,4 @@ resources:
   - "namespace-test.yaml"
   - "namespace-nginx.yaml"
   - "repository.yaml"
+  - "chart.yaml"
