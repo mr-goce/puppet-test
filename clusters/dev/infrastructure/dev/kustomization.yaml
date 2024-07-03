@@ -3,4 +3,5 @@ resources:
   - "namespace-nginx.yaml"
   - "repository.yaml"
   - "chart.yaml"
+  - "namespace-new.yaml"
   # - "puppet-repo.yaml"
