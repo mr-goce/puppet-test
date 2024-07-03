@@ -6,3 +6,4 @@ resources:
   - "namespace-new.yaml"
   - "puppet-repo.yaml"
   # - "release.yaml"
+  - "namespace-ggoc.yaml"
