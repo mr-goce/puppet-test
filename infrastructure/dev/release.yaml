@@ -13,6 +13,12 @@ spec:
       sourceRef:
         kind: HelmRepository
         name: nginx
+    values:
+      controller:
+        service:
+          type: "NodePort"
+      admissionWebhooks:
+        enabled: false    
   releaseName: nginx
   targetNamespace: nginx
   interval: 1h # this is for drifting of the helm created resources
