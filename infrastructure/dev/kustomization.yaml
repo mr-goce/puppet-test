@@ -7,4 +7,4 @@ resources:
   - "puppet-repo.yaml"
   # - "release.yaml"
   - "namespace-ggoc.yaml"
-  - ""testing-repo.yaml"
+  - "testing-repo.yaml"
