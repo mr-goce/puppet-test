@@ -7,4 +7,4 @@ metadata:
   namespace: nginx
 spec:
   interval: 5m0s
-  url: https://github.com.io/puppetlabs/puppetserver-helm-chart
+  url: https://puppetlabs.github.io/puppetserver-helm-chart
