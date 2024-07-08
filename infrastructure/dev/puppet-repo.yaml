@@ -3,8 +3,8 @@
 apiVersion: source.toolkit.fluxcd.io/v1beta2
 kind: HelmRepository
 metadata:
-  name: puppetserver
+  name: puppetserver-helm-chart
   namespace: nginx
 spec:
   interval: 5m0s
-  url: https://github.com/puppetlabs/puppetserver-helm-chart
+  url: https://github.com.io/puppetlabs/puppetserver-helm-chart
